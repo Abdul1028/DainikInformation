@@ -15,6 +15,47 @@ Follow these steps to get the project up and running on your local machine:
 ### Prerequisites
 
 - Node.js and npm installed on your machine. You can download them from [here](https://nodejs.org/).
+- Expo GO app for android and ios download from PlayStore and AppStore respectively
 - Expo CLI installed globally. You can install it using the following command:
   ```sh
   npm install -g expo-cli
+
+## Steps
+
+### Clone the repository:
+
+```sh
+git clone https://github.com/your-username/date-task.git
+cd date-task
+
+###Install Dependencies
+
+```sh
+npm install
+
+###Start the application:
+
+```sh
+npm start
+
+###OR
+
+```sh
+npx expo start
+
+
+###Open Expo go App and scan the QR code on terminal to open in android or ios
+
+###WEB
+press w in the terminal to open it simply in the web browser 
+
+or hit 
+
+```sh
+http://localhost:8081
+
+
+
+
+
+
