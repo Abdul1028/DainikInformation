@@ -24,29 +24,28 @@ Follow these steps to get the project up and running on your local machine:
 
 ### Clone the repository:
 
-```sh
 git clone https://github.com/your-username/date-task.git
 cd date-task
 
-###Install Dependencies
 
-```sh
+### Install Dependencies
+
 npm install
 
-###Start the application:
+### Start the application:
 
 ```sh
 npm start
 
-###OR
+### OR
 
 ```sh
 npx expo start
 
 
-###Open Expo go App and scan the QR code on terminal to open in android or ios
+### Open Expo go App and scan the QR code on terminal to open in android or ios
 
-###WEB
+### WEB
 press w in the terminal to open it simply in the web browser 
 
 or hit 
