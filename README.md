@@ -1,7 +1,7 @@
 
 # Dainik information
 
-Date-Task is a React Native application that helps you determine the date information based on the day number and the year you input. It supports both light and dark modes, adapting the UI to match the current theme.
+Dainik Information is a React Native application that helps you determine the date information based on the day number and the year you input. It supports both light and dark modes, adapting the UI to match the current theme.
 
 # Features
 - Calculate the specific date given a day number and year
