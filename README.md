@@ -60,6 +60,7 @@ press w in the terminal to open it simply in the web browser or hit
 http://localhost:8081
 ```
 
+![Video](https://github.com/Abdul1028/DainikInformation/blame/main/demo.mp4)
 
 
 
