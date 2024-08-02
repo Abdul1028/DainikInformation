@@ -13,7 +13,6 @@ Dainik Information is a React Native application that helps you determine the da
 [Live Website](https://dainikinformation.vercel.app)
 
 
-
 ## Installation
 
 Follow these steps to get the project up and running on your local machine:
@@ -60,10 +59,8 @@ press w in the terminal to open it simply in the web browser or hit
 http://localhost:8081
 ```
 
-![Video](https://github.com/Abdul1028/DainikInformation/blame/main/demo.mp4)
-
-
-
+# Demo in ios
+https://github.com/user-attachments/assets/b1a4dca9-3253-4585-9c37-30ea26bdce85
 
 
 
