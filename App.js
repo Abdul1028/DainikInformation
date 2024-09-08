@@ -23,7 +23,7 @@ export default function App() {
     setYear('');
     Keyboard.dismiss();
   };
-
+  
   const checkDate = () => {
     Keyboard.dismiss();
     const dayNum = parseInt(dayNumber, 10);
